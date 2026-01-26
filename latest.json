@@ -2,6 +2,6 @@
   "version_name": "1.1.0 Release",
   "version_code": 26012602,
   "logs": "大更新！\n更新方式：在gitee发布页面直接下载或到关于-QQ群群文件下载。\n\n新增：\n-时间表设置；\n-桌面小部件（实验性）；\n-免密登录教务网页版；\n-一些小功能；\n-许多未知bug；\n\n修复：\n-课程表列宽度计算不准确；\n-许多已知bug；\n\n优化：\n-用户界面和交互逻辑；\n-考试时间精确渲染；\n-许多小细节",
-  "download": "https://gitee.com/StarVase/uscampus-infomation-release/releases/download/26010903/USCampus-1.0.2%20Release-rev2-arm64.Apk",
+  "download": "https://gitee.com/StarVase/uscampus-infomation-release/releases/download/26012602/uscampus_1.1.0_release.apk",
   "page": "https://gitee.com/StarVase/uscampus-infomation-release/releases/"
 }
