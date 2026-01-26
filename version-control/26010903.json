@@ -1,0 +1,7 @@
+  {
+    "version_name": "1.0.2 Release-rev2",
+    "version_code": 26010903,
+    "logs": "旧版本存在严重漏洞，强烈建议更新到新版本！\n更新方式：网盘更新或到我的-关于-加入QQ群下载（937654807）\n\n修复：\n-在考试周亲切提醒你放假让你破防的问题\n-课程表刷新来回闪烁翻页的问题\n-一切其他已知但不便展开的bug\n\n新增：\n-教材征订功能移动端化\n-手动设置当前周\n-一键查询今日空教室\n-一堆未知bug\n\n网盘链接：[https://www.123865.com/s/EMcUVv-OMKF3](https://www.123865.com/s/EMcUVv-OMKF3)",
+    "download": "https://gitee.com/StarVase/uscampus-infomation-release/releases/download/26010903/USCampus-1.0.2%20Release-rev2-arm64.Apk",
+    "page": "https://gitee.com/StarVase/uscampus-infomation-release/releases/"
+  }
