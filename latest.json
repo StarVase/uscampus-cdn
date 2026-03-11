@@ -1,7 +1,7 @@
 {
-  "version_name": "1.2.1 Release",
-  "version_code": 26022602,
-  "logs": "这是一次很重要的更新，修复了一些致命bug。如果不想不小心翘课还是建议更新一下的。\n\n修复：\n-周日课程不能正确显示的问题\n-图标显示异常（放大能看出来）\n\n新增：\n-节日问候\n-课程表中隐藏校区\n\n特性：\n-适配安卓12带主题的图标",
-  "download": "https://gitee.com/StarVase/uscampus-infomation-release/releases/download/26022602/uscampus-1.2.1-release.apk",
+  "version_name": "1.3.0 Release",
+  "version_code": 26031103,
+  "logs": "1.3.0 更新日志\n\n### 新增\n- 实验预约功能\n- 23：30后小部件预览下一天课程\n- 主题系统\n- 课表当前节次高亮显示\n- 作息表管理增强实现\n\n### 修复\n- 考试页面布局异常问题\n- 周日周次显示错误的问题\n- 实验课表地点解析错误问题\n- 某些页面在夜间模式下文字颜色不正确的问题\n- 小部件功能异常的问题\n\n### 特性\n- 完善沉浸式主题系统\n- 完善实验周次节次解析逻辑\n- 调整界面样式和颜色\n- 优化课表组件和主界面课表逻辑\n- 优化多个界面的背景和布局，大幅重构多个界面以适配新主题系统",
+  "download": "https://gitee.com/StarVase/uscampus-infomation-release/releases/download/26031103/uscampus-1.3.0-release.apk",
   "page": "https://gitee.com/StarVase/uscampus-infomation-release/releases/"
 }
