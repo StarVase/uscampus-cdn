@@ -1,0 +1,7 @@
+{
+  "version_name": "2.0.1 Release",
+  "version_code": 26062703,
+  "logs": "第一次大型迭代，带来全新的体验。\n\n1. 修复了状态栏在低版本AOSP下沉浸异常\n2. 优化了启动加载流程，提升课程加载速度\n3. 优化自定义主题加载流程，提升了主题加载响应时间\n4. 加入动态模糊效果\n5. 加入学籍信息查询功能\n6. 修复教材征订页面无法响应2026秋季学期的问题\n7. 修复若干已知bug",
+  "download": "https://gitee.com/StarVase/uscampus-infomation-release/releases/download/26062703/uscampus-2.0.1-release.apk",
+  "page": "https://gitee.com/StarVase/uscampus-infomation-release/releases/"
+}
